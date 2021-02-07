@@ -1,3 +1,3 @@
 # tweeterclone
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/tweeterclone)
+This is a simple Twitter clone written in Vanilla JS and html/css.
